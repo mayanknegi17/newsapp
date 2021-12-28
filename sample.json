@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1271,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ted Lasso: Nick Mohammed on season 3, and what's next for Nate",
+            "description": "Nick Mohammed reflects on his path to Ted Lasso stardom and wonders what's next for his character.",
+            "url": "https://www.bbc.co.uk/news/uk-england-leeds-59518760",
+            "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+            "publishedAt": "2021-12-28T00:17:29Z",
+            "content": "By Oli ConstableBBC News\r\nImage caption, Nick Mohammed plays kitman Nathan \"Nate\" Shelley in the Apple TV series\r\nWarning: This article contains spoilers for season two of Ted Lasso\r\nOnce a football-… [+5806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple, LiveOne, Tesla - Reuters",
+            "description": "The S&P 500 was on track to open at all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors unshaken by Omicron-driven travel disruptions and store closures.",
+            "url": "https://www.reuters.com/markets/asia/apple-liveone-tesla-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+            "publishedAt": "2021-12-28T13:53:00Z",
+            "content": "The S&amp;P 500 was on track to open at all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors unshaken by Omicron-driven travel disruptions and store… [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple, Flotek Industries, Tesla - Reuters",
+            "description": "The S&P 500 and Dow futures hit all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors trying to shrug off the impact from Omicron-driven travel disruptions and store closures.",
+            "url": "https://www.reuters.com/markets/asia/apple-flotek-industries-tesla-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+            "publishedAt": "2021-12-28T12:05:00Z",
+            "content": "The S&amp;P 500 and Dow futures hit all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors trying to shrug off the impact from Omicron-driven travel d… [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Apple shuts NYC stores as COVID-19 cases surge - Reuters.com",
+            "description": "Apple on Monday announced it had closed all of its New York City stores to indoor shopping as cases of the Omicron coronavirus variant surged across the United States. Eve Johnson reports.",
+            "url": "https://www.reuters.com/video/watch/idOVF9YINAJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20211228&i=OVF9YINAJ&r=OVF9YINAJ&t=2",
+            "publishedAt": "2021-12-28T07:42:20Z",
+            "content": "Posted \r\nApple on Monday announced it had closed all of its New York City stores to indoor shopping as cases of the Omicron coronavirus variant surged across the United States. Eve Johnson reports."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Hong Kong Apple Daily founder and staff face new sedition charge - Reuters",
+            "description": "Hong Kong prosecutors on Tuesday filed a \"seditious publications\" charge against jailed media tycoon Jimmy Lai who already faces charges under a tough national security law that critics say has stifled freedoms in the Asian financial hub.",
+            "url": "https://www.reuters.com/world/asia-pacific/hong-kong-apple-daily-founder-staff-face-new-sedition-charge-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/resizer/NWAmBavd0AVR9uC143pi6LrJi0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GGQFEO57EVI4TPDGBJ3FJKHO7I.jpg",
+            "publishedAt": "2021-12-28T04:10:00Z",
+            "content": "HONG KONG, Dec 28 (Reuters) - Hong Kong prosecutors on Tuesday filed a \"seditious publications\" charge against jailed media tycoon Jimmy Lai who already faces charges under a tough national security … [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "S&P, Dow futures at record highs as rally sustains - Reuters",
+            "description": "The S&P 500 and Dow futures hit all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors trying to shrug off the impact from Omicron-driven travel disruptions and store closures.",
+            "url": "https://www.reuters.com/markets/europe/sp-dow-futures-record-highs-rally-sustains-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/resizer/33Y4CBa-QcHIvAlDYDMAtFhl-ig=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7TFV5K7BPNNH3LH43FIZNHIAFE.jpg",
+            "publishedAt": "2021-12-28T11:59:00Z",
+            "content": "Dec 28 (Reuters) - The S&amp;P 500 and Dow futures hit all-time highs on Tuesday, building on a record-setting rally amid thin trading volumes, with investors trying to shrug off the impact from Omic… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Financial literacy or luck? The year small-time traders made a big impact - Reuters",
+            "description": "In May, San Diego-based Emily was feeling flush from a year of double-digit gains earned from trading stocks. Equity options,  which some fellow stay-at-home investors were dabbling in, would juice up her returns, she decided.",
+            "url": "https://www.reuters.com/markets/europe/financial-literacy-or-luck-year-small-time-traders-made-big-impact-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/resizer/E9LuFQYXzQJi8NOPeGKSaTT8ack=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OTVGAVAKNFK5ZF4BNZCNAPATAI.jpg",
+            "publishedAt": "2021-12-28T12:00:00Z",
+            "content": "LONDON/NEW YORK, Dec 28 (Reuters) - In May, San Diego-based Emily was feeling flush from a year of double-digit gains earned from trading stocks. Equity options, which some fellow stay-at-home invest… [+5478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Presented by Emma John, Adam Collins and Geoff Lemon. Produced by Soofia Tariq. The Final Word is produced by Bad Producer Productions and edited by Dave Collins. Executive Produced by Gabrielle Jackson and Melanie Tait.",
+            "title": "Australia embarrass England to retain the Ashes – The Final Word podcast",
+            "description": "Emma John reflects on the terrible display from the tourists while Adam Collins and Geoff Lemon celebrate Scott Boland’s six for sevenEmma laments England’s disastrous, quickfire collapse at the MCG as Australia retained the urn in little over two days.Then A…",
+            "url": "https://www.theguardian.com/sport/audio/2021/dec/28/australia-embarrass-england-to-retain-ashes-third-test-the-final-word-podcast",
+            "urlToImage": "https://i.guim.co.uk/img/media/2ec120827bc4b809091aa7a3e3b03174027a89a6/0_39_3040_1824/master/3040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63d1c2e6b6fbb8cc58587e9a04717b9b",
+            "publishedAt": "2021-12-28T07:45:32Z",
+            "content": "Emma laments Englands disastrous, quickfire collapse at the MCG as Australia retained the urn in little over two days.\r\nThen Adam and Geoff discuss an extraordinary embarrassing finale to the third T… [+265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Deals: Apple Watch Series 7 Models Drop $50 in Amazon's Newest Sale",
+            "description": "A few pre-Christmas deals on the Apple Watch Series 7 have returned this week, taking $50 off the 41mm and 45mm GPS models of the latest Apple Watch. Starting with the 41mm GPS Apple Watch Series 7 in Green Aluminum with a Clover Sport Band, this model is ava…",
+            "url": "https://www.macrumors.com/2021/12/28/deals-apple-watch-series-7/",
+            "urlToImage": "https://images.macrumors.com/t/_fooodhV1JrZbaL_DTNYgbz6BRI=/1600x/article-new/2021/11/apple-watch-blue-holiday.jpg",
+            "publishedAt": "2021-12-28T15:09:12Z",
+            "content": "A few pre-Christmas deals on the Apple Watch Series 7 have returned this week, taking $50 off the 41mm and 45mm GPS models of the latest Apple Watch. Starting with the 41mm GPS Apple Watch Series 7 i… [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "S&P 500 hits another record high as the Santa Claus rally stays strong",
+            "description": "The S&P 500 is on course for a fifth day of gains, while Apple again sits near a $3 trillion market capitalization.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-sp500-record-high-santa-claus-rally-markets-2021-12",
+            "urlToImage": "https://images2.markets.businessinsider.com/614a31e9de0e7b00194ba465?format=jpeg",
+            "publishedAt": "2021-12-28T14:38:25Z",
+            "content": "Traders on the floor of the New York Stock Exchange.Wang Ying/Xinhua via Getty Images\r\nUS stocks rose Tuesday, with the S&amp;P 500 hanging at fresh record highs, as investors set aside risks from ri… [+1539 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
+            "title": "Apple shuts down all of its NYC stores for in-person shopping due to rising COVID-19 cases",
+            "description": "It's unclear how long stores will remain closed but customers who purchase items online can still pick them up in-store.",
+            "url": "https://www.businessinsider.com/rising-covid-cases-new-york-city-apple-shut-down-stores-2021-12",
+            "urlToImage": "https://i.insider.com/61ca540e3f07f800184d205b?width=1200&format=jpeg",
+            "publishedAt": "2021-12-28T01:06:19Z",
+            "content": "Apple has closed all of its New York City stores to indoor shopping on Monday because of the surge in COVID-19 cases.\r\n\"We remain committed to a comprehensive approach for our teams that combines reg… [+865 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Hillary Grigonis)",
+            "title": "From cases to MagSafe battery packs, here are the coolest iPhone 13 accessories",
+            "description": "We've found the most notable accessories for the iPhone 13 lineup of 2021 — from cases to MagSafe batteries and more.",
+            "url": "https://www.businessinsider.com/apple-iphone-13-accessories",
+            "urlToImage": "https://i.insider.com/61b0e6b404b7d000187866bb?width=1200&format=jpeg",
+            "publishedAt": "2021-12-28T14:00:00Z",
+            "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nTo keep their shiny new iPhone 13 looking fresh, many Apple fans will want to go straight from the shipping box … [+675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zacks.com"
+            },
+            "author": "Zacks Equity Research",
+            "title": "Should You Invest in the Vanguard Information Technology ETF (VGT)?",
+            "description": "Sector ETF report for VGT",
+            "url": "http://www.zacks.com/stock/news/1844052/should-you-invest-in-the-vanguard-information-technology-etf-vgt?cid=CS-ENTREPRENEUR-FT-sector_etf-1844052",
+            "urlToImage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-410359.jpeg",
+            "publishedAt": "2021-12-28T11:20:09Z",
+            "content": "The Vanguard Information Technology ETF (VGT) was launched on 01/26/2004, and is a passively managed exchange traded fund designed to offer broad exposure to the Technology - Broad segment of the equ… [+4569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Hipertextual (Redacción)",
+            "title": "‘Bruja Escarlata y Visión (Wandavision)’, ‘Loki’ y ‘The Witcher’, son las series más pirateadas de 2021",
+            "description": "Bruja Escarlata y Visión (Wandavision), Loki y The Witcher, son las tres series más pirateadas de 2021, de acuerdo a un ranking anual que ha publicado Torrentfreak. De hecho la lista está dominada por varias series de Marvel. The Mandalorian fue, el año pasad…",
+            "url": "https://hipertextual.com/2021/12/bruja-escarlata-y-vision-wandavision-loki-y-the-witcher-son-las-series-mas-pirateadas-de-2021",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/02/wandavision-1-scaled.jpeg",
+            "publishedAt": "2021-12-28T11:44:04Z",
+            "content": "Bruja Escarlata y Visión (Wandavision), Loki y The Witcher, son las tres series más pirateadas de 2021, de acuerdo a un ranking anual que ha publicado Torrentfreak. De hecho la lista está dominada po… [+2453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Eliminar la tarjeta SIM en el iPhone tiene grandes ventajas, pero también inconvenientes",
+            "description": "No hace falta ser la mano derecha de Tim Cook, CEO de Apple, para saber que la compañía está trabajando en un ecosistema completamente inalámbrico. Si bien han sido las filtraciones las que nos han informado sobre un futuro iPhone sin puertos ni botones, las …",
+            "url": "https://hipertextual.com/2021/12/eliminar-la-tarjeta-sim-en-el-iphone-tiene-grandes-ventajas-pero-tambien-inconvenientes",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/09/iPhone-13-Pro-00615-scaled.jpg",
+            "publishedAt": "2021-12-28T10:54:16Z",
+            "content": "No hace falta ser la mano derecha de Tim Cook, CEO de Apple, para saber que la compañía está trabajando en un ecosistema completamente inalámbrico. Si bien han sido las filtraciones las que nos han i… [+4491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Yúbal Fernández",
+            "title": "MIUI 13 ya está aquí: requisitos, móviles compatibles, novedades y cómo actualizar",
+            "description": "Te traemos toda la información sobre el nuevo MIUI 13, la nueva versión de la capa de personalización de Android que Xiaomi tiene en sus dispositivos. Con ella, el fabricante chino le da a sus equipos un aspecto único y diferenciador con respecto al resto de …",
+            "url": "https://www.xataka.com/basics/miui-13-esta-aqui-requisitos-moviles-compatibles-novedades-como-actualizar",
+            "urlToImage": "https://i.blogs.es/1a513d/miui-13/840_560.jpg",
+            "publishedAt": "2021-12-28T13:00:29Z",
+            "content": "Te traemos toda la información sobre el nuevo MIUI 13, la nueva versión de la capa de personalización de Android que Xiaomi tiene en sus dispositivos. Con ella, el fabricante chino le da a sus equipo… [+8766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Sahas Mehra",
+            "title": "Telegram to add animated emoji reactions to its platform",
+            "description": "Telegram is planning a few changes, such as including animated emoji reactions, as well as special text for hiding movie spoilers.",
+            "url": "https://www.digitaltrends.com/mobile/telegram-to-add-emoji-reactions-to-its-platform/",
+            "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/world-economy-2.jpg",
+            "publishedAt": "2021-12-28T13:37:30Z",
+            "content": "Telegram is WhatsApp’s closest rival, but is nowhere yet close to being the market leader in communication apps. WhatsApp is steaming ahead at full speed, with plenty of recent updates, including exp… [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctrl.blog"
+            },
+            "author": "Cj Malone",
+            "title": "Should you contribute open data to OpenStreetMap for free?",
+            "description": "Google Maps is incredibly detailed and useful. But Google uses it for tracking and deliver ads. Should you contribute for free to build its monopoly?",
+            "url": "https://www.ctrl.blog/entry/re-maps-public-service.html",
+            "urlToImage": "https://www.ctrl.blog/media/hero/openstreetmap.1280x720.png",
+            "publishedAt": "2021-12-28T14:16:23Z",
+            "content": "This is a guest post by Cj Malone, Director at OpenStreetMap UK. Opinion are his own and not those of OpenStreetMap UK. Cj is an avid OpenStreetMap (OSM) contributor, mainly in the United Kingdom (UK… [+4917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "hackerkid",
+            "title": "GitHub – hackerkid/Mind-Expanding-Books: Books everyone should read",
+            "description": ":books: Books everyone should read! Contribute to hackerkid/Mind-Expanding-Books development by creating an account on GitHub.",
+            "url": "https://github.com/hackerkid/Mind-Expanding-Books",
+            "urlToImage": "https://repository-images.githubusercontent.com/36554250/0f24e600-63ce-11e9-84d4-1566f7643770",
+            "publishedAt": "2021-12-28T06:19:40Z",
+            "content": "Mind Expanding Books\r\nCheck out my latest project - diff.blog\r\nBooks everyone should read!\r\nYou might be interested in the beta website at https://books.vishnuks.com. Source code live in app/ directo… [+53571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "新型コロナ検査キットを分解したらARMのチップが出てきて想像以上のハイテク製品だったことが判明",
+            "description": "ハードウェアやソフトウェアのリバースエンジニアリングに取り組んでいるプログラマーのFoone氏が、自宅で使える新型コロナウイルス感染症(COVID-19)検査キットである「COVID-19 Home Test」をバラバラに分解したところ、中にArm製のチップが埋め込まれていることが明らかになり、想像以上にハイテクなものであることが判明しました。続きを読む...",
+            "url": "https://gigazine.net/news/20211228-covid-19-test-kit-arm-chip/",
+            "urlToImage": "https://i.gzn.jp/img/2021/12/28/covid-19-test-kit-arm-chip/00_m.jpg",
+            "publishedAt": "2021-12-28T11:00:00Z",
+            "content": "Foone(COVID-19)COVID-19 Home TestArm\r\nfoone (@Foone) / Twitterhttps://twitter.com/Foone\r\nEllumeCOVID-19COVID-19 Home Test1Bluetooth\r\nTeardown time. OKSO this is a home test for that pandemic thing th… [+2490 chars]"
+        }
+    ]
+}
